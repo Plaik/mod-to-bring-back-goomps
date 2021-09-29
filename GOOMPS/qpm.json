@@ -1,0 +1,38 @@
+{
+  "sharedDir": "shared",
+  "dependenciesDir": "extern",
+  "info": {
+    "name": "Goomps Reupload",
+    "id": "SpaceBubble",
+    "version": "2.3.5",
+    "url": null,
+    "additionalData": {}
+  },
+  "dependencies": [
+    {
+      "id": "beatsaber-hook",
+      "versionRange": "^1.0.0",
+      "additionalData": {
+        "extraFiles": [
+          "src/inline-hook"
+        ]
+      }
+    },
+    {
+      "id": "custom-types",
+      "versionRange": "^0.8.3",
+      "additionalData": {}
+    },
+    {
+      "id": "monkecomputer",
+      "versionRange": "*",
+      "additionalData": {}
+    },
+    {
+      "id": "monkecodegen",
+      "versionRange": "*",
+      "additionalData": {}
+    }
+  ],
+  "additionalData": {}
+}
