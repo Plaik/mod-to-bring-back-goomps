@@ -2,8 +2,8 @@
   "sharedDir": "shared",
   "dependenciesDir": "extern",
   "info": {
-    "name": "Goomps Reupload",
-    "id": "SpaceBubble",
+    "name": "Goomps V2",
+    "id": "goomps",
     "version": "2.3.5",
     "url": null,
     "additionalData": {}
